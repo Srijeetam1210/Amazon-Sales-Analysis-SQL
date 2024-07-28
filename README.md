@@ -1,1 +1,1 @@
-# Amazon-Sales_SQL
+# Amazon-Sales-Analysis_SQL
